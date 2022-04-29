@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Push-Noification</string>
+    <string name="channel_name">FCM_Message</string>
+    <string name="channel_description">Use Fierbase To Send Message</string>
+</resources>
